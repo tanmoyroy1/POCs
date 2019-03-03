@@ -1,0 +1,7 @@
+{
+  "name": "FaceRec",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
